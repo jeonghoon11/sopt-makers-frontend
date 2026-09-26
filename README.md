@@ -4,8 +4,6 @@
 
 이 저장소는 여러 앱과 공통 패키지를 함께 관리하는 모노레포입니다. 이 README의 서비스 소개와 개발 안내, 기술 스택은 **CREW 앱(`apps/crew`)에만 해당합니다.**
 
-<img src="https://user-images.githubusercontent.com/58380158/228786812-912b193e-11d2-4b95-8e1f-38a04177c9f4.png" />
-
 ## 모임
 
 함께하고 싶은 모임을 찾는 것부터, 참여한 모임의 이야기를 나누는 것까지. Playground의 모임 공간을 소개합니다.
